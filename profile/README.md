@@ -15,7 +15,7 @@ We are a global community of students and alumni from the **42 Network**, united
 ---
 
 ## 📢 Community
-💬 Join our discussions and projects on Discord: [Cybersecurity Enthusiasts from 42](https://discord.gg/YOUR-INVITE-LINK)  
+💬 Join our discussions and projects on Discord: [Cybersecurity Enthusiasts from 42](https://discord.gg/Th5KPV8xmZ)  
 🌍 Open to **all 42 students** and **cybersecurity learners worldwide**  
 
 ---
