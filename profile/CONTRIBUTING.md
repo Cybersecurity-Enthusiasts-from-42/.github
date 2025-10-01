@@ -50,6 +50,6 @@ Your contributions help us grow and share knowledge with others. 💡
 ---
 
 ## 🌍 Community
-If you get stuck, ask for help on our **[Discord server](https://discord.gg/YOUR-INVITE-LINK)**.  
+If you get stuck, ask for help on our **[Discord server](https://discord.gg/Th5KPV8xmZ)**.  
 
 Together, we grow stronger as cybersecurity enthusiasts from 42! 🚀
